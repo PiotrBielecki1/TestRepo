@@ -1,2 +1,3 @@
 numer jeden
 druga zmiana w pierwszy
+next
