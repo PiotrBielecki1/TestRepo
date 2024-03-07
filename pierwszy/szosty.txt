@@ -1,3 +1,4 @@
 additonal change
 commit1
 commit2
+zmiana w szosty
